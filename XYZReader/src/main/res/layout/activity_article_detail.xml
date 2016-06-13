@@ -1,28 +1,33 @@
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
+    android:fitsSystemWindows="true"
     android:layout_height="match_parent">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:elevation="0dp"
-        android:background="@android:color/transparent">
+        app:backgroundTint="@android:color/transparent"
+        android:background="@android:color/transparent"
+        app:elevation="0dp">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
-            android:elevation="0dp"
             android:layout_width="match_parent"
             android:layout_height="?actionBarSize"
-            android:background="?selectableItemBackgroundBorderless"
-            android:contentDescription="@string/up"></android.support.v7.widget.Toolbar>
+            app:backgroundTint="@android:color/transparent"
+            android:alpha="125"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/up"
+            android:elevation="0dp"></android.support.v7.widget.Toolbar>
     </android.support.design.widget.AppBarLayout>
 
 
     <android.support.v4.view.ViewPager
         android:id="@+id/pager"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
 
 </android.support.design.widget.CoordinatorLayout>

@@ -21,7 +21,6 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.ViewTreeObserver;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -217,7 +216,6 @@ public class ArticleDetailFragment extends Fragment implements
                                 TextView textView = (TextView) mRootView.findViewById(R.id.article_body);
                                 //todo: set animation between the change of colors
                                 textView.setTextColor(p.getDarkMutedColor(0xFF333333));
-                                textView.setLinkTextColor(p.getVibrantColor(R.color.theme_accent));
                                 updateStatusBar();
                             }
                         }
