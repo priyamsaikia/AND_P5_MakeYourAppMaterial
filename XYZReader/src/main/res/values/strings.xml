@@ -9,5 +9,6 @@
 
     <string name="up">Up</string>
     <string name="sharedImage">SharedImageView</string>
+    <string name="cursor_load_failed">ERROR LOADING DETAILS</string>
 
 </resources>

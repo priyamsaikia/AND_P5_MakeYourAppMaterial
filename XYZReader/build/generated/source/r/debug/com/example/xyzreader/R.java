@@ -2143,11 +2143,12 @@ containing a value of this type.
         public static final int ic_arrow_back=0x7f02003f;
         public static final int ic_share=0x7f020040;
         public static final int logo=0x7f020041;
-        public static final int notification_template_icon_bg=0x7f020046;
+        public static final int notification_template_icon_bg=0x7f020047;
         public static final int padded_divider=0x7f020042;
         public static final int photo_background_protection=0x7f020043;
         public static final int snackbar_background=0x7f020044;
-        public static final int white_selectable_item_background_circle=0x7f020045;
+        public static final int toolbar_background=0x7f020045;
+        public static final int white_selectable_item_background_circle=0x7f020046;
     }
     public static final class fraction {
         public static final int detail_body_line_spacing_multiplier=0x7f090000;
@@ -2227,7 +2228,7 @@ containing a value of this type.
         public static final int never=0x7f0a002e;
         public static final int none=0x7f0a000f;
         public static final int normal=0x7f0a000b;
-        public static final int pager=0x7f0a0067;
+        public static final int pager=0x7f0a0066;
         public static final int parallax=0x7f0a0018;
         public static final int parentPanel=0x7f0a0044;
         public static final int photo=0x7f0a006d;
@@ -2278,7 +2279,7 @@ containing a value of this type.
         public static final int time=0x7f0a007d;
         public static final int title=0x7f0a0043;
         public static final int title_template=0x7f0a0046;
-        public static final int toolbar=0x7f0a0066;
+        public static final int toolbar=0x7f0a0067;
         public static final int top=0x7f0a0027;
         public static final int topPanel=0x7f0a0045;
         public static final int up=0x7f0a0008;
@@ -2376,10 +2377,11 @@ containing a value of this type.
         public static final int action_share=0x7f0c0013;
         public static final int app_name=0x7f0c0014;
         public static final int appbar_scrolling_view_behavior=0x7f0c0015;
-        public static final int sharedImage=0x7f0c0016;
-        public static final int status_bar_notification_info_overflow=0x7f0c0017;
-        public static final int up=0x7f0c0018;
-        public static final int welcome_xyz_reader=0x7f0c0019;
+        public static final int cursor_load_failed=0x7f0c0016;
+        public static final int sharedImage=0x7f0c0017;
+        public static final int status_bar_notification_info_overflow=0x7f0c0018;
+        public static final int up=0x7f0c0019;
+        public static final int welcome_xyz_reader=0x7f0c001a;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0d0000;

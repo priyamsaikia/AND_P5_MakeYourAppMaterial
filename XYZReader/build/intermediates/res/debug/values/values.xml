@@ -374,6 +374,7 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <!-- From: file:/D:/personal/udacity/nanodegree/MakeYourAppMaterial/xyzreader/XYZReader/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="cursor_load_failed">ERROR LOADING DETAILS</string>
     <string name="sharedImage">SharedImageView</string>
     <!-- From: file:/D:/personal/udacity/nanodegree/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
