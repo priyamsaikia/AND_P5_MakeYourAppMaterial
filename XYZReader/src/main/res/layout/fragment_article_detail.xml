@@ -23,14 +23,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:minHeight="112dp"
-                    android:scaleType="centerCrop"
+                    android:minHeight="@dimen/detail_card_top_margin"
+                    android:scaleType="fitXY"
                     android:transitionName="@string/sharedImage" />
-
-                <View
-                    android:layout_width="match_parent"
-                    android:layout_height="112dp" />
-
             </FrameLayout>
 
             <com.example.xyzreader.ui.MaxWidthLinearLayout
@@ -39,7 +34,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="@dimen/detail_card_top_margin"
                 android:background="#fff"
-                android:elevation="2dp"
+                app:elevation="2dp"
                 android:maxWidth="@dimen/detail_card_max_width"
                 android:orientation="vertical">
 
