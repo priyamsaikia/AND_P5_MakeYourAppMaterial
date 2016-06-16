@@ -172,6 +172,7 @@ public class ArticleDetailFragment extends Fragment implements
     @Override
     public void onResume() {
         super.onResume();
+        //todo:
         getActivity().startPostponedEnterTransition();
     }
 

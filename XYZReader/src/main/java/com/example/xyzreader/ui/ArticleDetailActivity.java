@@ -51,7 +51,9 @@ public class ArticleDetailActivity extends AppCompatActivity
         }
 
         setContentView(R.layout.activity_article_detail);
+        //todo:
         ActivityCompat.postponeEnterTransition(this);
+
         setSupportActionBar((Toolbar) findViewById(R.id.toolbar));
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowTitleEnabled(false);
