@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.2.0-2e0841652cf2e4a8cdd36e400d7903d679d4097a.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley-9826229fd6eabc39e24027b0ec4068748bb4b750.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.2.0-0ac6a933ccde1a939f417791c65bceecd6352f80.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-f5b73a10382c83c91d1424aebf42b1d5c5f200dd.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-eb925b28c91df6f90a598c1b941d4f3b4cfd598d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyam\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0-39790bc08cf15ef662f387bd783c48085f6c7e8e.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-5f0c9ca3396391a7e14d25601179d42097cea29a.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-d631e89148362dff659a14520c5a201e418b7bd3.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-b65b7dec9056b6a3db3b3f8e1ae37f0da045e5ae.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-ba50df7161b189d22e0f4b8bb8f160b23672d553.jar" />
+    </item>
+    <item
+        jar="C:\Users\Priyam\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2-2f538c1b8e6a20935b50b060401b22ea99e6cf23.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-7528bfb1d91930fd4977f322d472c048fcf3c6fe.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-7fedc4cce2f7114924df5f6bf00a410dd1db998d.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-3595b06f2b6c72807da106a5bb453c72bed6f379.jar" />
+    </item>
+    <item
+        jar="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\personal\udacity\nanodegree\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-936337f8ae537e4776a12a5439f8b0a9d1258e49.jar" />
+    </item>
+
+</items>
