@@ -1,3 +1,3 @@
 # AND_P5_MakeYourAppMaterial
 
-[![Alt text for your video](http://img.youtube.com/vi/H21QctmLqsI/0.jpg)](https://youtu.be/H21QctmLqsI)
+![Screens](https://github.com/saikiapriyam/AND_P5_MakeYourAppMaterial/blob/master/screens/2016_06_18_09_23_51.gif)
